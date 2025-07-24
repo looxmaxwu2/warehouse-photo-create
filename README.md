@@ -1,1 +1,0 @@
-# warehouse-photo-create
